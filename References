@@ -1,3 +1,27 @@
 Cassandra Basics: https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
 DP Patterns: https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target
 Kafka Scaling to 1.8 trillion per day, use case study at agoda: https://medium.com/agoda-engineering/how-agoda-manages-1-8-trillion-events-per-day-on-kafka-1d6c3f4a7ad1
+
+Bare Metal Infra Setup Resources:
+OpenTelemetry, Metrics, Logs: https://signoz.io/
+Opensource Distributed tracing platform: https://www.jaegertracing.io/
+Task Queue: Celery
+Kubernetes IDE: Lens https://store.k8slens.dev/products/lens-desktop-personal
+Server Providers:
+https://phoenixnap.com/
+https://yotta.com/ - majorly for India
+https://www.vultr.com/ - for quick servers
+https://www.equinix.com/
+An End-to-End Observability Platform: https://fluentbit.io/
+Use AnyCast for the same IP among multiple servers throughout the world: https://www.thousandeyes.com/learning/techtorials/anycast
+Realtime Analytics Database:
+- https://druid.apache.org/
+- https://clickhouse.com/
+Check CDN performance: https://www.cdnperf.com/
+CDN:
+- https://bunny.net/
+Cheaper Storage Solution: https://wasabi.com/
+Use Cloud as the backup of Database
+Note: Handle everything via Kubernetes to make life a lot more easy.
+
+Check Site Performance from multiple locations: https://tools.keycdn.com/performance
