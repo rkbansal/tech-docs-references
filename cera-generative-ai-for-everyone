@@ -1,0 +1,18 @@
+## Tips for prompting
+- Be detailed and specific
+- Guide the model to think through it's answer
+  - Tell in steps what to do:
+    - Step 1: 5 fun, joyful words that relate to cats
+    - Step 2: Rhyming names for a toy based on those words
+    - Step 3: Add a fun, relavant emoji for each toy name
+
+- Experiment and Iterate
+  - No perfect prompt for every person or situation!
+    - Instead, better to develop process for improving prompts through iteration
+    - Idea -> Prompt -> LLM Response -> Idea -> ...
+
+Prompting Process:
+  - Be clear & specific in prompt (try with something simple first if not getting details in starting)
+  - Think about why result is not giving desired output
+  - Refine your prompt
+  - Repeat
